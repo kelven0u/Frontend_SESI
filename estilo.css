@@ -9,10 +9,10 @@ body{
 
 .container{
     width: 400px;
-    background-color: #1e1e11;
+    background-color: #232323;
     padding: 20px;
     border-radius: 10px;
-    border: 1px solid #333;
+    border: 1px solid #333333;
     box-shadow: 0 10px 30px rgb(0,0,0,0.5);
 
 }
